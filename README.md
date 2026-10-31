@@ -1,6 +1,6 @@
-# Xiaosheng Zhou
+# About me
 
-I am an undergraduate studying Information Engineering at Sun Yat-sen University, in the School of Systems Science and Engineering. My interests lie in embodied AI and robot learning, particularly how agents connect perception, reasoning, and action.
+My name is Xiaosheng Zhou, I am an undergraduate studying Information Engineering at Sun Yat-sen University, in the School of Systems Science and Engineering. My interests lie in embodied AI and robot learning, particularly how agents connect perception, reasoning, and action.
 
 I have hands-on experience with vision-language-action models, model fine-tuning, and real-world robotic deployment.
 
